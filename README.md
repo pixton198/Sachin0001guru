@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Sachin0001guru
-- 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning html,css and javascript
-- 💞️ I’m looking to collaborate on nothing because i am a beginner
+- 👀 I’m interested in devops
+- 🌱 I’m currently in senior-secondary school.
+- 💞️ I know html,css and python
+- now i am start learning devops.
 - 📫 How to reach me this is my whatsapp no. and phone number +919337990878
 
 <!---
