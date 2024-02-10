@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [my-sol](https://github.com/Sachin0001guru/my-sol)
 
-- 🌱 I’m currently learning **Solidity,Hardhat,React.js,Unity**
+- 🌱 I’m currently learning **Java,Unity,DSA**
 
-- 👯 I’m looking to collaborate on **Web3 Game, daaps and defi projects**
+- 👯 I’m looking to collaborate on **Androaid,Game-dev**
 
-- 💬 Ask me about *Androaid,web3.0,smart-contract auditing,Game-Dev**
+- 💬 Ask me about **Androaid,web3.0,smart-contract auditing,Game-Dev**
 
 - 📫 How to reach me **sdesachi1@gmail.com**
 
