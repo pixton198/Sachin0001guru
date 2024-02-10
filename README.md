@@ -1,6 +1,6 @@
 ![MasterHead](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEFu2oofb0rE/v0/-999x-999.gif)
 <h1 align="center">Hi 👋, I'm Sachidananda</h1>
-<h3 align="center">An aspiring Full-Stack Block-Chain Game Developer India</h3>
+<h3 align="center">An aspiring Androaid-Game Developer India</h3>
 <img align="right" alt="Coding" width="850" src="https://camo.githubusercontent.com/deae7e77ed06c8409537b01cfa9fae37278f26e313b0aaf8983c6c41c6fc23dd/68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3034382f3238322f3733332f6f726967696e616c2f6578636570747265612d67616d6572726f6f6d2d312d7265766973696f6e65642d302e6769663f31363439373631313035">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin0001guru&label=Profile%20views&color=0e75b6&style=flat" alt="sachin0001guru" /> </p>
@@ -13,11 +13,11 @@
 
 - 👯 I’m looking to collaborate on **Web3 Game, daaps and defi projects**
 
-- 💬 Ask me about **Web3.0,Blockchian,Fullstack,**
+- 💬 Ask me about *Androaid,web3.0,smart-contract auditing,Game-Dev**
 
 - 📫 How to reach me **sdesachi1@gmail.com**
 
-- ⚡ Fun fact **I Think What ever you do in life Don't forget your parents**
+- ⚡ Fun fact **Focus on your goals you will get many ho*les**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
